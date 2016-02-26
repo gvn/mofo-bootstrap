@@ -28,6 +28,6 @@
     "ncp": "^2.0.0",
     "node-sass": "^3.4.2",
     "npm-run-all": "^1.5.1",
-    "sass-lint": "^1.5.0"
+    "sass-lint": "^1.5.1"
   }
 }
