@@ -20,7 +20,7 @@
     "bootstrap": "v4.0.0-alpha.2"
   },
   "devDependencies": {
-    "chokidar": "^1.4.2",
+    "chokidar": "^1.4.3",
     "chokidar-cli": "^1.2.0",
     "jade": "^1.11.0",
     "live-server": "^0.9.1",
